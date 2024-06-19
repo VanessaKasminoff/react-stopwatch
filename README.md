@@ -7,6 +7,8 @@ Simply press play and watch the seconds tick by~ :p
 ### Includes a Timer!
 Using the input boxes, select how long in the form of minutes/seconds you want the timer to countdown and press play!
 
+![](https://github.com/VanessaKasminoff/react-stopwatch/blob/master/src/assets/react%20timer.gif)
+
 ## **Featured Changes**
 - Sound now plays when timer reaches zero.
 - A message now displays when timer reaches zero.
