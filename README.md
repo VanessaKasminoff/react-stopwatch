@@ -2,6 +2,8 @@
 Cute stopwatch created using React!  
 Simply press play and watch the seconds tick by~ :p  
 
+![](https://github.com/VanessaKasminoff/react-stopwatch/blob/master/src/assets/react%20stopwatch.gif)
+
 ### Includes a Timer!
 Using the input boxes, select how long in the form of minutes/seconds you want the timer to countdown and press play!
 
